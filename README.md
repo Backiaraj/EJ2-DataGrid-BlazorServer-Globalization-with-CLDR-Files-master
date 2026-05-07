@@ -6,7 +6,7 @@ This is demo application to load the translation json files and CLDR data files 
 
 ## Overview
 
-This sample shows how to integrate the DataGrid component into a Blazor Server application with full globalization support. The application demonstrates loading locale-specific translation files and CLDR data to dynamically apply number formats, date formats, currency formats, and timezone information based on the selected culture.
+This sample shows how to integrate the [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component into a Blazor Server application with full globalization support. The application demonstrates loading locale-specific translation files and CLDR data to dynamically apply number formats, date formats, currency formats, and timezone information based on the selected culture.
 
 ### Key Implementation
 
@@ -36,7 +36,7 @@ The sample loads German (de) culture data and applies it to a DataGrid component
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/EJ2-DataGrid-BlazorServer-Globalization-with-CLDR-Files-master.git
+git clone https://github.com/SyncfusionExamples/EJ2-DataGrid-BlazorServer-Globalization-with-CLDR-Files-master.git
 cd EJ2-DataGrid-BlazorServer-Globalization-with-CLDR-Files-master
 cd SynfusionTest
 ```
