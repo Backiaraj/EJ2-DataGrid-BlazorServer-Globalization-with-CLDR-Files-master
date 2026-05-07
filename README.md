@@ -37,6 +37,7 @@ The sample loads German (de) culture data and applies it to a DataGrid component
 
 ```bash
 git clone https://github.com/yourusername/EJ2-DataGrid-BlazorServer-Globalization-with-CLDR-Files-master.git
+cd EJ2-DataGrid-BlazorServer-Globalization-with-CLDR-Files-master
 cd SynfusionTest
 ```
 
