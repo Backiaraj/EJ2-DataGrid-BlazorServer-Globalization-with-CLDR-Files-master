@@ -33,7 +33,7 @@ The sample loads German (de) culture data and applies it to a DataGrid component
 
 ## Getting Started
 
-### Clone the Repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/EJ2-DataGrid-BlazorServer-Globalization-with-CLDR-Files-master.git
