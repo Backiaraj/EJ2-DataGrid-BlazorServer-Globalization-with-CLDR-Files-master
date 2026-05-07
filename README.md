@@ -54,7 +54,7 @@ cd SynfusionTest
 dotnet restore
 
 # Run the project
-dotnet run --project GettingStartedSample/GettingStartedSample.csproj
+dotnet run --project SynfusionTest/SynfusionTest.csproj
 ```
 
 ## References
